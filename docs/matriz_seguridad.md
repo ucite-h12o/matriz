@@ -112,8 +112,9 @@ Análisis Clínicos o Bioquímica – o en la sala de Validación
 facultativos de la llegada del miembro de las fuerzas de seguridad (45
 4205, o 852721)</strong></p></li>
 </ol>
-<td>Enlace a tema CUSTODIA</td>
-<td><a href="analiticas.md">Open</a></td>
+
+<a href="analiticas.md">Enlace a tema CUSTODIA</a>
+<p>
 <p><strong>CASO 2. Solicitud de información por parte de las fuerzas de
 seguridad</strong></p>
 <p><strong><u>Llamada telefónica solicitando
