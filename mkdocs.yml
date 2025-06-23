@@ -4,3 +4,7 @@ site_url: https://ucite-h12o.github.io/matriz/
 nav:
   - Home: index.md
   - Ayuda uso plataforma: getting-started.md
+  - Partes de la matriz:
+      - Matriz fuerzas seguridad: matriz/matriz_seguridad.md
+      - Matriz pruebas radiológicas en BAI: matriz/pruebas_radiologicas_bai.md
+      - Matriz analíticas y POCT: matriz/analiticas.md

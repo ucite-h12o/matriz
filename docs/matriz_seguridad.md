@@ -113,7 +113,7 @@ facultativos de la llegada del miembro de las fuerzas de seguridad (45
 4205, o 852721)</strong></p></li>
 </ol>
 
-<a href="analiticas.md">Enlace a tema CUSTODIA</a>
+<a href="/matriz/analiticas">Enlace a tema CUSTODIA</a>
 <p>
 <p><strong>CASO 2. Solicitud de información por parte de las fuerzas de
 seguridad</strong></p>
