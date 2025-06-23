@@ -6,7 +6,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3"><p><img src="/media/image1.jpeg"
+<td rowspan="3"><p><img src="media/image1.jpeg"
 style="width:2.15625in;height:0.80521in"
 alt="12_de_octubre jpg.jpg" /></p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
