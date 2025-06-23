@@ -6,7 +6,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3"><p><img src="media/image1.jpg"
+<td rowspan="3"><p><img src="/matriz/media/image1.jpg"
 width="400"
 alt="12_de_octubre jpg.jpg" /></p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
@@ -107,7 +107,7 @@ situaciones que requieran tratamiento inmediato como neumotórax o
 hemotórax a tensión, taponamiento pericárdico o hemoperitoneo
 masivo</p></li>
 </ul>
-<p><img src="/media/media/image2.png"
+<p><img src="/matriz/media/radiologica_image2.png"
 style="width:6.57986in;height:3.82014in" /></p>
 <p>Figura 1. Ventanas de exploración ecografía FAST</p>
 <ul>
@@ -141,13 +141,13 @@ vascular.</p></li>
 <li><p>Angio TC de de troncos supraaórticos (TSA): En base a los
 criterios de Denver (Figura 2)</p></li>
 </ul>
-<p><img src="/media/media/image3.png"
+<p><img src="/matriz/media/radiologica_image3.png"
 style="width:4.7715in;height:5.79247in" /></p>
 <p>Figura 2. Criterios de Denver modificados para despistaje de lesión
 vascular</p>
 <p>La elección de que pruebas de imagen realizar durante la atención
 inicial dependerán de la estabilidad del paciente:</p>
-<p><img src="/media/media/image4.png"
+<p><img src="/matriz/media/radiologica_image4.png"
 style="width:6.57986in;height:4.05764in" /></p>
 <p>*En caso de mujeres embarazadas/edad fértil el manejo diagnóstico es
 equivalente.</p></td>

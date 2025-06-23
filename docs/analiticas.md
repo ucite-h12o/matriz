@@ -6,7 +6,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="3"><p><img src="media/image1.jpg"
+<td rowspan="3"><p><img src="/matriz/media/image1.jpg"
 style="width:2.15625in;height:0.80521in"
 alt="12_de_octubre jpg.jpg" /></p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
@@ -69,7 +69,7 @@ donación en asistolia no controlada en BAI</p></li>
 <td><strong>DESARROLLO</strong></td>
 </tr>
 <tr>
-<td><p><img src="docs/media/media/image2.png"
+<td><p><img src="/matriz/media/analitica_image2.png"
 style="width:2.33893in;height:1.73587in" /><strong>0. EXTRACCIÓN DE
 MUESTRAS DE SANGRE:</strong></p>
 <p>- NUNCA utilizar soluciones con base alcohólica para limpiar la zona
@@ -88,7 +88,7 @@ todos estos pacientes:</p>
 <thead>
 <tr>
 <th><strong>Hemograma x 2 (EDTA):</strong></th>
-<th><img src="docs/media/media/image3.png"
+<th><img src="/matriz/media/analitica_image3.png"
 style="width:1.31753in;height:0.53077in" /></th>
 <th><p>- Pruebas cruzadas</p>
 <p>- Hemograma completo</p></th>
@@ -97,32 +97,32 @@ style="width:1.31753in;height:0.53077in" /></th>
 <tbody>
 <tr>
 <td><strong>Bioquímica</strong></td>
-<td><img src="docs/media/media/image4.png"
+<td><img src="/matriz/media/analitica_image4.png"
 style="width:0.57138in;height:1.82896in" /></td>
 <td>perfil hepático, perfil renal, urea, CK, LDH, magnesio, fósforo</td>
 </tr>
 <tr>
 <td><strong>Coagulación convencional</strong></td>
-<td><img src="docs/media/media/image5.png"
+<td><img src="/matriz/media/analitica_image5.png"
 style="width:0.5139in;height:1.87132in" /></td>
 <td>INR, TTPa, Fibrinógeno</td>
 </tr>
 <tr>
 <td><strong>Gasometría</strong></td>
-<td><p><img src="docs/media/media/image6.png"
+<td><p><img src="/matriz/media/analitica_image6.png"
 style="width:2.04792in;height:0.51319in" /></p>
 <p>Jeringa gasometría</p></td>
 <td>Para medición en mano en GEM, introduciendo NHC en máquina GEM</td>
 </tr>
 <tr>
 <td><strong>Orina</strong></td>
-<td><img src="docs/media/media/image7.png"
+<td><img src="/matriz/media/analitica_image7.png"
 style="width:1.40284in;height:0.36058in" /></td>
 <td>Tóxicos (“drogas de abuso”)</td>
 </tr>
 <tr>
 <td><strong>Custodia</strong></td>
-<td><img src="docs/media/media/image8.png"
+<td><img src="/matriz/media/analitica_image8.png"
 style="width:1.29384in;height:0.43742in" /></td>
 <td>Etanol con custodia</td>
 </tr>
@@ -154,7 +154,7 @@ paciente y nº empleado peticionario.</p></th>
 <p>2) Tubos: verde y gris</p>
 <p>3) Cerrar sobre</p>
 <p>4) Mandar por bala</p>
-<p><img src="docs/media/media/image9.png"
+<p><img src="/matriz/media/analitica_image9.png"
 style="width:4.22059in;height:1.77198in" /></p></td>
 </tr>
 </tbody>
@@ -176,9 +176,9 @@ coagulación</p>
 <p>2) Cerrar bala, colocar, seleccionar número laboratorio, y pulsar
 ENTER</p>
 <p>y sobre etanol custodia (con tubos verde y gris)</p>
-<p><img src="docs/media/media/image10.png"
+<p><img src="/matriz/media/analitica_image10.png"
 style="width:0.41029in;height:0.21654in" /><img
-src="docs/media/media/image11.png"
+src="/matriz/media/analitica_image11.png"
 style="width:4.82666in;height:1.58715in" /></p></th>
 </tr>
 </thead>
@@ -187,15 +187,15 @@ style="width:4.82666in;height:1.58715in" /></p></th>
 <td colspan="2"><p><u>LLEVAR EN MANO A BANCO DE SANGRE (TCAE)</u></p>
 <p>El otro tubo violeta (hemograma EDTA) y la pulsera roja en bolsa
 transparente.</p>
-<p><img src="docs/media/media/image12.png"
+<p><img src="/matriz/media/analitica_image12.png"
 style="width:1.14771in;height:1.61739in" /></p>
 <p>En ese momento: <strong>Pasar procedimiento HemoCod con la
 PDA</strong> en la pulsera roja que aparece en la foto</p>
-<p><img src="docs/media/media/image13.png"
+<p><img src="/matriz/media/analitica_image13.png"
 style="width:1.28368in;height:1.07639in" /></p>
 <p>Al pegar pegatina de pruebas cruzadas en tubo EDTA: <strong>números
 hacia arriba (hacia el tapón)</strong></p></td>
-<td><p><img src="docs/media/media/image14.png"
+<td><p><img src="/matriz/media/analitica_image14.png"
 style="width:1.73958in;height:1.44722in" /><u>TRAER DESDE BANCO DE
 SANGRE (TCAE):</u></p>
 <p>1) La hoja de banco de sangre</p>
@@ -204,7 +204,7 @@ SANGRE (TCAE):</u></p>
 </tr>
 </tbody>
 </table>
-<p><img src="docs/media/media/image15.jpeg"
+<p><img src="/matriz/media/analitica_image15.jpeg"
 style="width:0.9868in;height:1.25472in" /><strong>3. GASOMETRÍA Y
 REGISTRO NÚMERO DE HISTORIA</strong></p>
 <ul>
@@ -231,17 +231,17 @@ GEM</p>
 </thead>
 <tbody>
 <tr>
-<td><p><img src="docs/media/media/image16.png"
+<td><p><img src="/matriz/media/analitica_image16.png"
 style="width:2.01937in;height:2.09719in" /><img
-src="docs/media/media/image17.png"
+src="/matriz/media/analitica_image17.png"
 style="width:3.55851in;height:1.71138in" /><img
-src="docs/media/media/image18.jpeg"
+src="/matriz/media/analitica_image18.jpeg"
 style="width:1.94792in;height:2.58333in" /></p>
 <p>1. Introducir NHC (número de historia)</p>
 <p>2. Introducir FiO2 y Tº temperatura</p></td>
-<td><img src="docs/media/media/image19.png"
+<td><img src="/matriz/media/analitica_image19.png"
 style="width:2.12639in;height:2.83125in" /><img
-src="docs/media/media/image20.png"
+src="/matriz/media/analitica_image20.png"
 style="width:2.07647in;height:1.05445in" /></td>
 </tr>
 </tbody>
@@ -249,7 +249,7 @@ style="width:2.07647in;height:1.05445in" /></td>
 <p><strong>4. REALIZACIÓN COAGUCHEK PARA INR e INDICACIONES</strong></p>
 <p>- IMPORTANTE: Para la realización de la prueba, comprobar que el
 código de la máquina coincida con el de las tiras reactivas.</p>
-<p><img src="docs/media/media/image21.png"
+<p><img src="/matriz/media/analitica_image21.png"
 style="width:1.88473in;height:1.7162in" /></p>
 <p>- INDICACIONES EN ATENCIÓN INICIAL:</p>
 <ul>
@@ -263,7 +263,7 @@ una alta sospecha de traumatismo craneoencefálico.</p></li>
 <p>- UTILIZACIÓN:</p>
 <ul>
 <li><p>Ver en protocolo de 14.Resucitación hemostática</p></li>
-<li><p><img src="docs/media/media/image22.png"
+<li><p><img src="/matriz/media/analitica_image22.png"
 style="width:6.27014in;height:2.33681in" />Qué cartucho: de elección con
 APTEM (sigma complete) para evaluación de la fibrinolisis. A criterio
 del médico podrá solicitar HEPTEM (sigma complete + hep)</p></li>

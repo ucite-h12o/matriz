@@ -112,7 +112,7 @@ Análisis Clínicos o Bioquímica – o en la sala de Validación
 facultativos de la llegada del miembro de las fuerzas de seguridad (45
 4205, o 852721)</strong></p></li>
 </ol>
-<p><strong>Enlace al tema CUSTODIA</strong></p>
+<p><strong>[Enlace al tema CUSTODIA](analiticas.md)</strong></p>
 <p><strong>CASO 2. Solicitud de información por parte de las fuerzas de
 seguridad</strong></p>
 <p><strong><u>Llamada telefónica solicitando
@@ -337,25 +337,25 @@ Intensiva (Engl Ed). 2025 Apr 5;36(2):100497. doi:
 **<u>ANEXO 1</u> – Ejemplo 1 de documento de solicitud de custodia
 muestra**
 
-![](media/image2.jpeg)
+![](media/seguridad_image1.jpeg)
 
 **  **
 
 **<u>ANEXO II</u> – Ejemplo 2 de documento de solicitud de custodia
 muestra**
 
-![](media/image3.jpeg)
+![](media/seguridad_image2.jpeg)
 
 **  **
 
 **<u>ANEXO III</u> – Ejemplo de documento de solicitud de información
 verbal**
 
-![](media/image4.jpeg)
+![](media/seguridad_image3.jpeg)
 
 **  **
 
 **<u>ANEXO IV</u> – Ejemplo de documento de solicitud de informe
 escrito**
 
-![](media/image5.jpeg)
+![](media/seguridad_image4.jpeg)
