@@ -1,4 +1,5 @@
 site_name: My Docs
+site:_url: https://ucite-h12o.github.io/matriz/
 
 nav:
   - Home: index.md
