@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ucite-h12o.github.io/</loc>
+         <loc>https://ucite-h12o.github.io/matriz/</loc>
          <lastmod>2025-06-23</lastmod>
     </url>
     <url>
-         <loc>https://ucite-h12o.github.io/analiticas/</loc>
+         <loc>https://ucite-h12o.github.io/matriz/analiticas/</loc>
          <lastmod>2025-06-23</lastmod>
     </url>
     <url>
-         <loc>https://ucite-h12o.github.io/getting-started/</loc>
+         <loc>https://ucite-h12o.github.io/matriz/getting-started/</loc>
          <lastmod>2025-06-23</lastmod>
     </url>
     <url>
-         <loc>https://ucite-h12o.github.io/matriz_seguridad/</loc>
+         <loc>https://ucite-h12o.github.io/matriz/matriz_seguridad/</loc>
          <lastmod>2025-06-23</lastmod>
     </url>
     <url>
-         <loc>https://ucite-h12o.github.io/pruebas_radiologicas_bai/</loc>
+         <loc>https://ucite-h12o.github.io/matriz/pruebas_radiologicas_bai/</loc>
          <lastmod>2025-06-23</lastmod>
     </url>
 </urlset>
