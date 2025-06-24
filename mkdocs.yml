@@ -5,11 +5,11 @@ nav:
   - Home: index.md
   - Ayuda uso plataforma: getting-started.md
   - Partes de la matriz:
-      - Matriz fuerzas seguridad: matriz_seguridad
-      - Matriz pruebas radiológicas en BAI: pruebas_radiologicas_bai
-      - Matriz analíticas y POCT: analiticas
-      - Matriz profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
-      - Matriz protección personal: proteccion_personal
+      - Matriz 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
+      - Matriz 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai
+      - Matriz 19 - Analíticas y POCT: analiticas
+      - Matriz 26 - Fuerzas Seguridad: matriz_seguridad  
+      - Matriz 31 - Protección personal: proteccion_personal
 
 theme:
   name: material
