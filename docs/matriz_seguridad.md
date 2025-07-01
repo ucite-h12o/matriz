@@ -45,7 +45,7 @@ publicación:</strong></p>
 <tr>
 <td style="text-align: left;"><ul>
 <li><p>Cumplir la legalidad sobre la custodia de analíticas y el
-intercambio de información</p></li>
+intercambio de información torero</p></li>
 <li><p>Fundamentar la relación con las fuerzas de seguridad basada en
 normas vigentes</p></li>
 <li><p>Asegurar el respeto a los derechos de los pacientes y sus

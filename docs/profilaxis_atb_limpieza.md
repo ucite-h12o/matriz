@@ -1,14 +1,14 @@
 <table>
 <colgroup>
-<col style="width: 36%" />
-<col style="width: 39%" />
-<col style="width: 23%" />
+<col style="width: 27%" />
+<col style="width: 45%" />
+<col style="width: 26%" />
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="3" style="text-align: left;"><p><img
 src="/matriz/media/image1.jpg"
-style="width:1.92056in;height:0.67986in"
+style="width:1.64761in;height:0.58324in"
 alt="12_de_octubre jpg.jpg" /></p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
 <td rowspan="3" style="text-align: center;"><blockquote>
@@ -241,11 +241,14 @@ Emergency Surgery 2018;44:3–271</p></li>
 <li><p>Muñoz Vives JM, Caba Doussoux P, Martí i Garín D. Fracturas
 abiertas. Rev Esp Cir Ortop Traumatol 2010;54(6):399–410.</p></li>
 <li><p>Briones y Dr. Aleksandar Lovic DAO. Guía de manejo
-multidisciplinar de fracturas abiertas [Internet]. 2024. Disponible en:
-https://www.secot.es/media/docs/publicaciones/GUIA_DE_MANEJO_MULTIDISCIPLINAR_FRACTURAS_ABIERTAS.pdf</p></li>
-<li><p>Vera AJJ, de Llano Temboury JMGPCAQ. CAPÍTULO 47 - CLASIFICACIÓN
-FRACTURAS. PRINCIPIOS GENERALES. Disponible en: <a
-href="https://unitia.secot.es/web/manual_residente/CAPITULO%2047.pdf"><u>https://unitia.secot.es/web/manual_residente/CAPITULO%2047.pdf</u></a></p></li>
+multidisciplinar de fracturas abiertas [Internet]. 2024. Disponible en: <a href=
+"https://www.secot.es/media/docs/publicaciones/GUIA_DE_MANEJO_MULTIDISCIPLINAR_FRACTURAS_ABIERTAS.pdf" style="word-break: break-all; text-decoration: underline;">
+https://www.secot.es/media/docs/publicaciones/GUIA_DE_MANEJO_MULTIDISCIPLINAR_FRACTURAS_ABIERTAS.pdf
+</a></p></li>
+<li><p>Vera AJJ, de Llano Temboury JMGPCAQ. CAPÍTULO 47 - CLASIFICACIÓN FRACTURAS. PRINCIPIOS GENERALES. Disponible en: 
+<a href="https://unitia.secot.es/web/manual_residente/CAPITULO%2047.pdf" style="word-break: break-all; text-decoration: underline;">
+https://unitia.secot.es/web/manual_residente/CAPITULO%2047.pdf
+</a></p></li>
 <li><p>Moreira M, Markovchick V. Wound Management. Emerg Med Clin N Am
 2007;25 873–899</p></li>
 <li><p>DeBoard R, Rondeau D, Kang C, Sabbaj A, McManus J. Principles of
