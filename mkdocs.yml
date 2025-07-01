@@ -29,3 +29,4 @@ plugins:
 
 extra_javascript:
   - javascripts/remove-diacritics.js
+  - js/giscus.js

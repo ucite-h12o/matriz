@@ -1,0 +1,13 @@
+const giscus = document.createElement('script');
+giscus.src = 'https://giscus.app/client.js';
+giscus.setAttribute('data-repo', 'ucite-h12o/matriz');
+giscus.setAttribute('data-repo-id', 'R_kgDOPAkakA');
+giscus.setAttribute('data-category', 'General Comments');
+giscus.setAttribute('data-category-id', 'DIC_kwDOPAkakM4CsThu');
+giscus.setAttribute('data-mapping', 'pathname');
+giscus.setAttribute('data-theme', 'light');
+giscus.setAttribute('data-reactions-enabled', '1');
+giscus.setAttribute('data-input-position', 'bottom');
+giscus.setAttribute('crossorigin', 'anonymous');
+giscus.async = true;
+document.querySelector('main').appendChild(giscus);
