@@ -21,13 +21,12 @@ theme:
 
 plugins:
   - search:
+      prebuild_index: false
       lang: 
         - es
         - en
       separator: '[\s\-\.]+'
 
-
 extra_javascript:
   - javascripts/remove-diacritics.js
-  - js/giscus.js
   - https://hypothes.is/embed.js
