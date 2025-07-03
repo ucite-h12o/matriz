@@ -77,10 +77,7 @@ entorno hospitalario (Box de Atención Inicial de la UCI-TE y Box Vital),
 incluyendo todo el proceso de atención inicial desde el contacto con el
 paciente hasta su finalización.</p>
 <p>NOTA: Tras finalizar atención inicial en BAI/Box Vital, si existe
-bajo riesgo de contacto con fluidos corporales, se puede sustituir la
-bata antisalpicaduras por una convencional y retirar la protección
-ocular; el resto de medidas se mantendrán hasta la
-finalización.</p></td>
+bajo riesgo de contacto con fluidos corporales, se pueden retirar las protecciones que no sean necesarias.</p></td>
 </tr>
 <tr>
 <td><strong>JUSTIFICACIÓN (por qué)</strong></td>
@@ -142,6 +139,8 @@ para una mejor cobertura de la interfaz bata-muñeca-mano.</p>
 <p>Uso de mascarillas FFP2/FFP3 en casos de riesgos especiales como la
 atención a pacientes con meningitis, bacilíferos, etc., en situaciones
 donde se generen aerosoles (IOT, RCP, etc).</p>
+<p>A decisión del equipo tratante, se valorará el uso de EPI tipo mono completo, asociado al resto de medidas, para situaciones especiales (enfermedades graves transmisibles poco frecuentes tipo virus Ébola, Marburg, agente infeccioso no identificado, etc.).</p>
+
 <p><strong><u>2. PROCEDIMIENTO DE COLOCACIÓN Y RETIRADA DE
 EPI</u></strong></p>
 <p><u>2.1. Colocación del EPI</u>. Debe realizarse en un área limpia y
