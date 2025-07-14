@@ -4,14 +4,17 @@ site_url: https://ucite-h12o.github.io/matriz/
 nav:
   - Home: index.md
   - Ayuda uso plataforma: getting-started.md
-  - Matriz 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
-  - Matriz 9 - Canalización de vías venosas y arteriales : canalizacion_vias
-  - Matriz 15 - Traslado intrahospitalario del paciente: traslado_intrahosp
-  - Matriz 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai
-  - Matriz 19 - Analíticas y POCT: analiticas
-  - Matriz 25 - Manejo de objetos personales (pertenencias): pertenencias
-  - Matriz 26 - Fuerzas Seguridad: matriz_seguridad  
-  - Matriz 31 - Protección personal: proteccion_personal
+  - 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
+  - 9 - Canalización de vías venosas y arteriales: canalizacion_vias
+  - 14 - Resucitación hemostática: resucitacion_hemostatica
+  - 15 - Traslado intrahospitalario del paciente: traslado_intrahosp
+  - 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai
+  - 19 - Analíticas y POCT: analiticas
+  - 25 - Manejo de objetos personales (pertenencias): pertenencias
+  - 26 - Fuerzas Seguridad: matriz_seguridad  
+  - 28 - Sedación consciente: sedacion_consciente
+  - 31 - Protección personal: proteccion_personal
+  - VÍDEOS: videos
 
 theme:
   name: material
@@ -26,6 +29,10 @@ plugins:
         - es
         - en
       separator: '[\s\-\.]+'
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: false
+
 
 extra_javascript:
   - javascripts/remove-diacritics.js

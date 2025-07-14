@@ -11,18 +11,18 @@ src="/matriz/media/image1.jpg"
 style="width:1.64761in;height:0.58324in"
 alt="12_de_octubre jpg.jpg" /></p>
 <p><strong>UCI DE TRAUMA Y EMERGENCIAS</strong></p></td>
-<td rowspan="3" style="text-align: center;"><blockquote>
+<td rowspan="3" style="text-align: center;">
 <p><strong>PROTOCOLO/</strong></p>
 <p><strong>PROCEDIMIENTO</strong></p>
 <p><strong>LIMPIEZA DE HERIDAS Y PROFILAXIS ANTIMICROBIANA EN LA
 ATENCIÓN INICIAL AL TRAUMA</strong></p>
 </blockquote></td>
-<td style="text-align: left;"><blockquote>
+<td style="text-align: left;">
 <p><strong>VERSIÓN</strong></p>
 </blockquote></td>
 </tr>
 <tr>
-<td style="text-align: left;"><blockquote>
+<td style="text-align: left;">
 <p><strong>Fecha publicación:</strong></p>
 <p><strong>Fecha prevista actualización:</strong></p>
 <p><strong>Autores:</strong></p>
@@ -33,12 +33,12 @@ ATENCIÓN INICIAL AL TRAUMA</strong></p>
 </blockquote></td>
 </tr>
 <tr>
-<td style="text-align: left;"><blockquote>
+<td style="text-align: left;">
 <p><strong>Hoja 1 de 4</strong></p>
 </blockquote></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p><strong>OBJETIVOS</strong></p>
 </blockquote></td>
 </tr>
@@ -51,7 +51,7 @@ antitetánica.</p></li>
 </ul></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p><strong>CRITERIOS DE INCLUSIÓN Y EXCLUSIÓN (quién)</strong></p>
 </blockquote></td>
 </tr>
@@ -62,12 +62,12 @@ fracturas abiertas.</p></li>
 </ul></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p><strong>JUSTIFICACIÓN (por qué)</strong></p>
 </blockquote></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p>Las lesiones músculo-esqueléticas (heridas y fracturas abiertas) son
 muy frecuentes en el paciente politraumatizado, y en general van a ser
 identificadas durante la valoración secundaria. Pese a que el manejo
@@ -77,7 +77,7 @@ profilaxis antimicrobiana sí ha de realizarse de manera urgente.</p>
 </blockquote></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p><strong>DESARROLLO (qué y cómo)</strong></p>
 </blockquote></td>
 </tr>
@@ -93,7 +93,7 @@ ya que aumentan el riesgo de infección. La documentación fotográfica
 puede ayudar en estos casos.</p></li>
 </ol></li>
 </ol>
-<blockquote>
+
 <p>La exploración digital (al igual que cualquier tipo de manipulación
 de la herida) en el box de atención inicial está desaconsejada.
 Únicamente ha de realizarse cuando se trata de una fractura abierta o
@@ -123,7 +123,7 @@ en suero salino fisiológico y un apósito oclusivo hasta poder valorar su
 alcance posteriormente con pruebas de imagen y cirugía si es
 preciso.</p></li>
 </ol>
-<blockquote>
+
 <p>En el caso de sangrados activos, evisceraciones, presencia de
 torniquetes o amputación, no retiraremos los vendajes o coberturas hasta
 su valoración en pruebas de imagen o en quirófano si es preciso, para
@@ -132,7 +132,7 @@ favorecer la hemostasia y evitar aumentar el sangrado.</p>
 <ol start="2" type="1">
 <li><p><strong><u>Profilaxis antibiótica</u></strong></p></li>
 </ol>
-<blockquote>
+
 <p><strong>2.1 Fracturas abiertas</strong></p>
 <p>Todo paciente con una fractura abierta (de cualquier grado) debe
 recibir profilaxis antibiótica intravenosa lo antes posible. Su
@@ -153,7 +153,7 @@ relacionadas con actividades agrícolas, presencia abundante de restos
 orgánicos): añadir penicilina 4 millones de UI cada 4 horas durante 48
 horas.</p></li>
 </ul>
-<blockquote>
+
 <p>** En pacientes alérgicos a betalactámicos se puede utilizar
 vancomicina 1g iv cada 12 horas o clindamicina 900 mg iv cada 8
 horas.</p>
@@ -174,7 +174,7 @@ auricular).</p></li>
 riesgo elevado de endocarditis, portador de prótesis
 ortopédica.</p></li>
 </ul>
-<blockquote>
+
 <p>En estos casos, se podrá valorar la profilaxis antibiótica con
 amoxicilina-clavulánico 1g/200 mg cada 8 horas durante 48 horas. En
 pacientes alérgicos se puede emplear clindamicina 900 mg iv cada 8
@@ -194,7 +194,7 @@ Anti-Tétanos)</strong>: proporciona protección inmediata.</p></li>
 días, por lo que proporciona protección para heridas posteriores (no
 inmediata).</p></li>
 </ul>
-<blockquote>
+
 <p>Clásicamente se han considerado heridas potencialmente tetanígenas:
 heridas o quemaduras con un importante grado de tejido desvitalizado,
 herida punzante (particularmente donde ha habido contacto con suelo o
@@ -227,7 +227,7 @@ atención inicial.</strong></p>
 style="width:5.28066in;height:4.41968in" /></p></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align: left;"><blockquote>
+<td colspan="3" style="text-align: left;">
 <p><strong>BIBLIOGRAFÍA</strong></p>
 </blockquote></td>
 </tr>
