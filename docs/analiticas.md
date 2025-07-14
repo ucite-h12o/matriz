@@ -129,7 +129,7 @@ style="width:1.29384in;height:0.43742in" /></td>
 </tbody>
 </table>
 <blockquote>
-<p><u>1.1. CUSTODIA DE ANALÍTICA</u></p>
+<p><u>1.1. CUSTODIA DE ANALÍTICA (links a <a href="/matriz/pertenencias">Pertenencias</a> y <a href="/matriz/matriz_seguridad">Fuerzas de Seguridad</a>)</u></p>
 </blockquote>
 <table>
 <colgroup>
@@ -260,11 +260,10 @@ aspecto de edad ≥ 65 años y que esté inestable hemodinámicamente o tenga
 una alta sospecha de traumatismo craneoencefálico.</p></li>
 </ul>
 <p><strong>5. ROTEM (Rotational Thromboelastometry)</strong></p>
-<p>- UTILIZACIÓN:</p>
+<p>- UTILIZACIÓN: (ver en protocolo <a href="/matriz/resucitacion_hemostatica">Resucitación hemostática</a>)</p>
 <ul>
-<li><p>Ver en protocolo de 14.Resucitación hemostática</p></li>
-<li><p><img src="/matriz/media/analitica_image22.png"
-style="width:6.27014in;height:2.33681in" />Qué cartucho: de elección con
+<img src="/matriz/media/analitica_image22.png"
+style="width:6.27014in;height:2.33681in" /> <li><p>Qué cartucho: de elección con
 APTEM (sigma complete) para evaluación de la fibrinolisis. A criterio
 del médico podrá solicitar HEPTEM (sigma complete + hep)</p></li>
 </ul>
