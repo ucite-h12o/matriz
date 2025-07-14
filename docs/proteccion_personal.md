@@ -16,7 +16,7 @@ situaciones de emergencia vital.</strong></td>
 <td style="text-align: center;"><strong>VERSIÓN 1</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><blockquote>
+<td style="text-align: center;">
 <p><strong>Fecha publicación:</strong> 03/2025</p>
 <p><strong>Fecha prevista actualización:</strong> 03/2026</p>
 <p><strong>Autores:</strong></p>
@@ -25,7 +25,7 @@ situaciones de emergencia vital.</strong></td>
 <p>Lorena Ganoza.</p>
 </blockquote>
 <p>Carmen Martínez.</p>
-<blockquote>
+
 <p>Ara Murillo.</p>
 <p>Inmaculada Pérez García. Carlos García Fuentes.
 <strong>Refer</strong></p>
@@ -62,7 +62,7 @@ otras emergencias vitales.</p>
 biológicos y aumentar la cultura de seguridad</p></li>
 <li><p>Reducir la probabilidad de contaminación cruzada</p></li>
 </ol>
-<blockquote>
+
 <p>Monitorizar y evaluar el cumplimiento del protocolo</p>
 </blockquote></td>
 </tr>
@@ -117,7 +117,7 @@ con trauma grave u otra emergencia vital. Previo a la utilización de un
 EPI, se deberá trabajar con pijama y calzado de trabajo, sin efectos
 personales (pulseras, anillos, relojes, etc.), pelo recogido e higiene
 de manos.</p>
-<blockquote>
+
 <p>· <strong>Guantes desechables</strong>: guantes de nitrilo. Deben
 cambiarse inmediatamente si se dañan o si hay contacto con múltiples
 superficies contaminadas. Se pueden usar dos pares de guantes si se
@@ -170,7 +170,7 @@ así.</p>
 <p><u>3.2. Descontaminación de equipos médicos</u>: esterilizados o
 descontaminados según tipo y nivel de contacto con los pacientes
 (detallado en fichas de limpieza del Hospital). Tres categorías:</p>
-<blockquote>
+
 <p>• Críticos, en contacto con tejidos estériles: Deben ser
 esterilizados a través del circuito hospitalario tras desinfección con
 jabón enzimático. Ej: cajas de curas, toracotomía, etc. </p>
