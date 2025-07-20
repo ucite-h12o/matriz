@@ -1,5 +1,6 @@
 # Índice principal de protocolos de la matriz
 
+- [1. Preaviso](preaviso.md)
 - [7. Profilaxis antibiótica y limpieza de heridas](profilaxis_atb_limpieza.md)
 - [9. Canalización de vías venosas y arteriales](canalizacion_vias.md)
 - [14. Resucitación hemostática](resucitacion_hemostatica.md)
