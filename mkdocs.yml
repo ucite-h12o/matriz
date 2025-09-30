@@ -9,13 +9,18 @@ nav:
   - 1 - Preaviso: preaviso
   - 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
   - 9 - Canalización de vías venosas y arteriales: canalizacion_vias
+  - 11 - Colocacion de drenaje torácico: colocacion_drenaje_toracico
+  - 12 - REBOA Cobra: reboa
   - 14 - Resucitación hemostática: resucitacion_hemostatica
   - 15 - Traslado intrahospitalario del paciente: traslado_intrahosp
   - 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai
   - 19 - Analíticas y POCT: analiticas
+  - 20 - Control de temperatura: control_temperatura
   - 25 - Manejo de objetos personales (pertenencias): pertenencias
   - 26 - Fuerzas Seguridad: matriz_seguridad  
   - 28 - Sedación consciente: sedacion_consciente
+  - 29 - Recepción de quirófano: recepcion_quirofano
+  - 30 - Reconocimiento terciario: valoracion_terciaria
   - 31 - Protección personal: proteccion_personal
   - VÍDEOS: videos
 

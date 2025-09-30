@@ -121,14 +121,12 @@ El protocolo de TCCC debe incluir:</p>
 <li><p>TC de abdomen-pelvis en fase portal.</p></li>
 </ul></li>
 </ul>
-<blockquote>
 <p>La fase arterial permite obtener un mapa vascular y detectar posibles
 lesiones vasculares contenidas (seudoaneurismas o fístulas
 arteriovenosas) que pueden pasar desapercibidas en la fase portal.
 También es útil para identificar la hemorragia activa arterial.</p>
 <p>En función de los hallazgos radiológicos, la sospecha clínica y la
 estabilidad del paciente a este protocolo estándar pueden añadirse:</p>
-</blockquote>
 <ul>
 <li><p>Fase tardía a los 3 min con técnica de baja dosis si sospecha de
 trauma genitourinario (fase excretora). En caso de hematuria, fracturas

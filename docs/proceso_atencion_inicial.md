@@ -153,8 +153,8 @@ y cuando subclavia. Ahora tenemos variabildiad.</p></td>
 <td>Video con QR</td>
 <td>Enfermeria: Maria Barrero y Silvia Gonzalez</td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>11pendiente entrega</td>
+<tr style="background-color: mistyrose;">>
+<td>11pendiente 1ºrevision en grupo</td>
 <td>Colocación de drenaje torácico</td>
 <td><p>Preparación de material</p>
 <p>Técnica y fijación</p></td>
@@ -266,8 +266,8 @@ vasopresina.</p>
 <p>Enfermeria: Raquel Carbonell y Veronica Moreno</p>
 <p>TCAE: Maria Santa Cruz</p></td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>20pendiente entrega</td>
+<tr style="background-color: mistyrose;">>
+<td>20pendiente 1ºrevision en grupo</td>
 <td>Control de temperatura</td>
 <td><p>Situaciones de temperatura periferica y central (neuro crítico,
 shock traumático)</p>
@@ -378,8 +378,8 @@ imagen y partes de quirófano</td>
 <p>Enfermeria: Maria Barrero</p>
 <p>Residente: Eduardo</p></td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>29Pendiente entrega</td>
+<tr style="background-color: mistyrose;">>
+<td>29pendiente 1ºrevision en grupo</td>
 <td>Recepción de quirófano</td>
 <td><p>Personal en la recepción</p>
 <p>Registro de analíticas previa a la llegada</p>
@@ -390,8 +390,8 @@ imagen y partes de quirófano</td>
 <p>Enfermeria: Estefania Vargas</p>
 <p>TCAE: Raquel Roman</p></td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>30pendiente entrega</td>
+<tr style="background-color: mistyrose;">>
+<td>30pendiente 1ºrevision en grupo</td>
 <td>Reconocimiento terciario</td>
 <td><p>(Este paso lo cambiaria de ubicación)</p>
 <p>Momento de realización</p>
