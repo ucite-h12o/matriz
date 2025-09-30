@@ -14,7 +14,7 @@
 <p style="background-color: lightcoral;">rojo oscuro: pendiente de entrega</p>
 <p style="background-color: mistyrose;">rojo claro: pendiente de primera revisión en grupo</p>
 <p style="background-color: lightyellow;">amarillo: pendiente de cambios antes de aprobar</p>
-<p style="background-color: honeydew;">verde: APROBADO</p>
+<p style="background-color: lightgreen;">verde: APROBADO</p>
 <tr>
 <th><strong>Número de proceso</strong></th>
 <th><strong>Parte del proceso o protocolo</strong></th>
@@ -401,7 +401,7 @@ imagen y partes de quirófano</td>
 <p>Incorporación del formulario en ICCA</p></td>
 <td>RESIDENTE. Susana</td>
 </tr>
-<tr style="background-color: honeydew;">
+<tr style="background-color: lightgreen;">
 <td>31 APROBADO</td>
 <td>Protección epi</td>
 <td></td>
