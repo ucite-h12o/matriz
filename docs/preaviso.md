@@ -13,8 +13,7 @@ la calidad del proceso.
 Los **roles** del equipo de atención inicial se establecen a primera
 hora de la mañana o del turno, al finalizar el pase.
 
-Todo el equipo procederá a la colocación del material de **protección
-personal** (mascarilla, bata, guantes, gafas) previo lavado de manos,
+Todo el equipo procederá a la colocación del material de [**protección personal**](proteccion_personal.md)  (mascarilla, bata, guantes, gafas) previo lavado de manos,
 según el protocolo específico.
 
 Las **tareas** a realizar durante la fase de preparación (desde el
@@ -103,19 +102,19 @@ combinación de los siguientes:
 - <u>Fisiológicos:</u> TAS, FC, índice de shock \>1 \*, paciente *in
   extremis* o en parada cardiorrespiratoria.
 
-> \* IS = FC/TAS. IS por encima de 1 predice mejor que TA y FC la
-> probabilidad de hemorragia masiva y mortalidad. Valorar *IS ajustado a
-> la edad* según el caso.
+\* IS = FC/TAS. IS por encima de 1 predice mejor que TA y FC la
+probabilidad de hemorragia masiva y mortalidad. Valorar *IS ajustado a
+la edad* según el caso.
 
 - <u>Laboratorio:</u> lactato, exceso de bases, hemoglobina → reevaluar
   en BAI
 
-> \* Las muestras extraídas durante la atención prehospitalaria son
-> venosas de origen periférico y con mucha frecuencia sobreestiman la
-> acidosis y la hiperlactatemia.
->
-> \* De los tres valores, la cifra de Hb por debajo de 10 g/dl es el que
-> más se asocia a la presencia de hemorragia masiva.
+\* Las muestras extraídas durante la atención prehospitalaria son
+venosas de origen periférico y con mucha frecuencia sobreestiman la
+acidosis y la hiperlactatemia.
+
+\* De los tres valores, la cifra de Hb por debajo de 10 g/dl es el que
+más se asocia a la presencia de hemorragia masiva.
 
 - <u>Anatómicos:</u> trauma ortopédico complejo (fractura de pelvis,
   fractura en varios huesos largos), torniquete no funcionante,
@@ -128,12 +127,11 @@ combinación de los siguientes:
 
 *1. Foster 2017. Initiation and Termination of Massive Transfusion
 Protocols: Current Strategies and Future Prospects*
-
-*2. Shih 2019. Systematic reviews of scores and predictors to trigger
-activation of massive transfusion protocols  
-3. Botteri 2022. Effectiveness of massive transfusion protocol
-activation in pre-hospital setting for major trauma  
-4. Cotton 2010. Multicenter Validation of a Simplified Score to Predict
-Massive Transfusion in Trauma.  
-5. Joseph 2018. Massive Transfusion: The Revised Assessment of Bleeding
+*<br>2. Shih 2019. Systematic reviews of scores and predictors to trigger
+activation of massive transfusion protocols</br>*
+*<br>3. Botteri 2022. Effectiveness of massive transfusion protocol
+activation in pre-hospital setting for major trauma</br>*  
+*4. Cotton 2010. Multicenter Validation of a Simplified Score to Predict
+Massive Transfusion in Trauma*  
+*5. Joseph 2018. Massive Transfusion: The Revised Assessment of Bleeding
 and Transfusion (RABT) Score*

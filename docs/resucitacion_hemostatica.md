@@ -45,8 +45,8 @@ publicación:</strong></p>
 <td><ul>
 <li><p>Reunir elementos de la resucitación hemostática en un
 documento.</p></li>
-<li><p>Describir preparación e indicaciones principales de vasopresina y
-ácido tranexámico.</p></li>
+<li><p>Describir preparación e indicaciones principales de noradrenalina, 
+vasopresina, ácido tranexámico y complejos protrombínicos.</p></li>
 </ul></td>
 </tr>
 <tr>
@@ -71,9 +71,9 @@ endógenos de la misma por agotamiento de las reservas.</p>
 <p><strong>Indicaciones</strong></p>
 <ul>
 <li><p>Pacientes que presentan shock hemorrágico de origen traumático y
-que persisten con TAm &lt; 65 mmHg a pesar de administración de ​al menos
-6 unidades de hemocomponentes en las últimas 24h en la fase aguda de un
-traumatismo.</p></li>
+que persisten con TAm &lt; 65 mmHg a pesar de administración de noradrenalina 
+y ​al menos 6 unidades de hemocomponentes en las últimas 24h en la fase aguda 
+de un traumatismo.</p></li>
 <li><p>Quedarían excluidos los pacientes con cardiopatía isquémica
 reciente y aquellos pacientes con trauma craneal como lesión
 predominante.</p></li>
@@ -99,11 +99,10 @@ solución preparada.</p></li>
 perfusión estándar de la unidad 40UI en 248 ml se corresponde a dosis
 máxima de 15 ml/h).</p></li>
 </ul>
-<blockquote>
 <p>La dosis se titulará en función de la respuesta hemodinámica para el
 objetivo mínimo de TAm 65 mmHg. Se mantendrá al menos durante 48h o
-hasta que no sea necesario soporte vasoactivo para TAm &gt; 65 mmHg.</p>
-</blockquote>
+hasta que no sea necesaria noradrenalina a dosis altas (&gt; 0,5 mcg/kg/min)
+para TAm &gt; 65 mmHg.</p>
 <p><strong>Ácido tranexámico:</strong> El Ácido Tranexámico (TXA) es una
 molécula capaz de detener la fibrinolisis endógena mediante el bloqueo
 de la actividad de la plasmina. El estudio CRASH 2 demostró beneficios
@@ -118,9 +117,10 @@ calidad de la evidencia disponible es moderada, lo que significa que
 posteriores estudios podrían cambiar las actuales recomendaciones.</p>
 <p><strong>Indicaciones:</strong></p>
 <ul>
-<li><p>Sangrado mayor de origen extracraneal.</p></li>
+<li><p>Sangrado mayor de origen extracraneal, <strong>en las primeras 3 horas 
+tras el trauma.</strong></p></li>
 <li><p>Pacientes con trauma craneal moderado/leve y TC patológico (TCE
-complicado) o pacientes que presentan trauma craneal con GCS menor 13
+complicado) o pacientes que presentan trauma craneal con GCS &gt; 8 y &lt; 13
 sin evidencia de tóxicos que justifique deterioro de GCS (antes de
 disponer de TC). Esto aplica en las <strong>primeras 3h tras el
 trauma</strong> y se excluirían los pacientes con <strong>lesión
@@ -131,18 +131,18 @@ vascular</strong> traumática craneal o cervical.</p></li>
 <li><p><strong>Bolo inicial</strong>: dilución de 2 ampollas de TXA (500
 mg/5ml) en 90 ml de 0,9% SS.</p></li>
 <li><p><strong>Perfusión intravenosa</strong>: dilución de 2 ampollas de
-TXA (500mg/5ml) en 240 ml de 0,9% SS.</p></li>
+TXA (500mg/5ml) en 90 ml de 0,9% SS.</p></li>
 </ul>
 <p><strong>Administración:</strong></p>
 <ul>
-<li><p><strong>Bolo inicial</strong>: administración intravenosa con
+<li><p><strong>Bolo inicial</strong>: administración intravenosa de 1g con
 sistema de macrogoteo a caída libre.</p></li>
 <li><p><strong>Perfusión intravenosa</strong>: administración en
-perfusión continua a razón de 2,08 mg/ml/min o 31,25 ml/h. Se mantendrá
+perfusión continua de 1g a razón de 125 mg/h o 12,5 mL/h. Se mantendrá
 durante 8h o hasta que no sea necesario.</p></li>
 </ul>
-<p><strong>Test viscoelásticos. ROTEM™.</strong> Ver miniprotocolo 19
-(POCT y analíticas).</p>
+<p><strong>Test viscoelásticos. ROTEM™.</strong> Ver 
+<a href="/matriz/analiticas"><strong>miniprotocolo 19(POCT y analíticas).</strong></a> </p>
 <p><strong>Realización:</strong> Ver ANEXO 1</p></td>
 </tr>
 <tr>
