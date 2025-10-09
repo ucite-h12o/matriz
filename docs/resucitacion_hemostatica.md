@@ -60,7 +60,7 @@ mientras se previene o trata la <strong>coagulopatía inducida por el
 trauma</strong>. Este concepto va más allá de simplemente reponer
 volumen: se centra en <strong>preservar la hemostasia</strong> desde los
 primeros momentos del manejo del paciente politraumatizado.</p>
-<p><strong>Vasopresina</strong>: La vasopresina (AVP) es una hormona
+<p><strong>VASOPRESINA</strong>: La vasopresina (AVP) es una hormona
 secretada por hipófisis posterior que se libera de forma endógena ante
 estímulos como la hipotensión e hipernatremia. Tiene un efecto
 vasoconstrictor (receptores V1) y es capaz de sensibilizar a la acción
@@ -68,7 +68,7 @@ de otros fármacos vasoactivos. Diversos estudios describen un papel
 relevante de la vasopresina en modelos de shock hemorrágico. En fases
 avanzadas del shock hemorrágico se produce una caída de los niveles
 endógenos de la misma por agotamiento de las reservas.</p>
-<p><strong>Indicaciones</strong></p>
+<p><u>Indicaciones</u></p>
 <ul>
 <li><p>Pacientes que presentan shock hemorrágico de origen traumático y
 que persisten con TAm &lt; 65 mmHg a pesar de administración de noradrenalina 
@@ -78,7 +78,7 @@ de un traumatismo.</p></li>
 reciente y aquellos pacientes con trauma craneal como lesión
 predominante.</p></li>
 </ul>
-<p><strong>Preparación</strong></p>
+<p><u>Preparación</u></p>
 <ul>
 <li><p><strong>Bolo inicial</strong>: dilución de 1 ampolla de
 vasopresina/argipresina (40 UI/2ml) en 8 ml de suero salino 0,9% (SS)
@@ -86,15 +86,12 @@ para lograr una dilución de 4UI/ml.</p></li>
 <li><p><strong>Perfusión intravenosa</strong>: dilución de 1 ampolla de
 vasopresina/argipresina (40 UI/2ml) en 248 ml de 0,9% SS.</p></li>
 </ul>
-<p><strong>Administración:</strong></p>
+<p><u>Administración:</u></p>
 <p>Para pacientes que cumplan los criterios descritos se iniciará
-vasopresina según el siguiente protocolo: </p>
-<p> </p>
+vasopresina según el siguiente protocolo: 
 <ul>
 <li><p><strong>Bolo inicial de 4 UI</strong>: administrar 1 ml de la
 solución preparada.</p></li>
-</ul>
-<ul>
 <li><p><strong>Perfusión intravenosa:</strong> 0-0,04 IU/min (en la
 perfusión estándar de la unidad 40UI en 248 ml se corresponde a dosis
 máxima de 15 ml/h).</p></li>
@@ -103,7 +100,7 @@ máxima de 15 ml/h).</p></li>
 objetivo mínimo de TAm 65 mmHg. Se mantendrá al menos durante 48h o
 hasta que no sea necesaria noradrenalina a dosis altas (&gt; 0,5 mcg/kg/min)
 para TAm &gt; 65 mmHg.</p>
-<p><strong>Ácido tranexámico:</strong> El Ácido Tranexámico (TXA) es una
+<p><strong>ÁCIDO TRANEXÁMICO:</strong> El Ácido Tranexámico (TXA) es una
 molécula capaz de detener la fibrinolisis endógena mediante el bloqueo
 de la actividad de la plasmina. El estudio CRASH 2 demostró beneficios
 en la mortalidad en pacientes en riesgo de hemorragia grave tras un
@@ -115,7 +112,7 @@ concluye que el ácido tranexámico podría tener un efecto beneficioso en
 pacientes que presentan TCE moderado en términos de mortalidad. La
 calidad de la evidencia disponible es moderada, lo que significa que
 posteriores estudios podrían cambiar las actuales recomendaciones.</p>
-<p><strong>Indicaciones:</strong></p>
+<p><u>Indicaciones:</u></p>
 <ul>
 <li><p>Sangrado mayor de origen extracraneal, <strong>en las primeras 3 horas 
 tras el trauma.</strong></p></li>
@@ -126,14 +123,14 @@ disponer de TC). Esto aplica en las <strong>primeras 3h tras el
 trauma</strong> y se excluirían los pacientes con <strong>lesión
 vascular</strong> traumática craneal o cervical.</p></li>
 </ul>
-<p><strong>Preparación:</strong></p>
+<p><u>Preparación:</u></p>
 <ul>
 <li><p><strong>Bolo inicial</strong>: dilución de 2 ampollas de TXA (500
 mg/5ml) en 90 ml de 0,9% SS.</p></li>
 <li><p><strong>Perfusión intravenosa</strong>: dilución de 2 ampollas de
 TXA (500mg/5ml) en 90 ml de 0,9% SS.</p></li>
 </ul>
-<p><strong>Administración:</strong></p>
+<p><u>Administración:</u></p>
 <ul>
 <li><p><strong>Bolo inicial</strong>: administración intravenosa de 1g con
 sistema de macrogoteo a caída libre.</p></li>

@@ -25,8 +25,8 @@
 </tr>
 </thead>
 <tbody>
-<tr style="background-color: mistyrose;">
-<td>1pendiente 1ºrevision en grupo</td>
+<tr style="background-color: lightyellow;">
+<td>1pendiente de cambios antes de aprobar</td>
 <td>Preaviso, comunicación al equipo y preparación del material</td>
 <td><p>Información fundamental estandarizada (checklist)</p>
 <p>Pasos para seguir tras la recepción</p>
@@ -193,10 +193,9 @@ y cuando subclavia. Ahora tenemos variabildiad.</p></td>
 <p>Enfermeria: Iluminada Palomino</p>
 <p>TCAE: Almudena</p></td>
 </tr>
-<tr style="background-color: mistyrose;">
-<td>14pendiente 1ºrevision en grupo</td>
-<td>Infusión de DVA (llamaría a este punto reanimación de shock
-hemorragíco o resucitación hemostática e incluir todo)</td>
+<tr style="background-color: lightyellow;">
+<td>14pendiente de cambios antes de aprobar</td>
+<td>Resucitación hemostática</td>
 <td><p>Indicaciones de tranexamico (TCE, shock hemorragico),
 vasopresina.</p>
 <p>Indicación ROTEM</p></td>
