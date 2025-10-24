@@ -164,8 +164,8 @@ y cuando subclavia. Ahora tenemos variabildiad.</p></td>
 <p>Residente: Jose Ginestal y Rosa Latorre (rotante)</p>
 <p>TCAE: Vanesa Gil</p></td>
 </tr>
-<tr style="background-color: mistyrose;">
-<td>12pendiente 1ºrevision en grupo</td>
+<tr style="background-color: lightgreen;">
+<td>12 APROBADO</td>
 <td>Reboa cobra</td>
 <td><p>Indicaciones</p>
 <p>Procedimiento</p>
@@ -265,8 +265,8 @@ vasopresina.</p>
 <p>Enfermeria: Raquel Carbonell y Veronica Moreno</p>
 <p>TCAE: Maria Santa Cruz</p></td>
 </tr>
-<tr style="background-color: mistyrose;">>
-<td>20pendiente 1ºrevision en grupo</td>
+<tr style="background-color: lightgreen;">>
+<td>23 APROBADO</td>
 <td>Control de temperatura</td>
 <td><p>Situaciones de temperatura periferica y central (neuro crítico,
 shock traumático)</p>
@@ -377,8 +377,8 @@ imagen y partes de quirófano</td>
 <p>Enfermeria: Maria Barrero</p>
 <p>Residente: Eduardo</p></td>
 </tr>
-<tr style="background-color: mistyrose;">>
-<td>29pendiente 1ºrevision en grupo</td>
+<tr style="background-color: lightgreen;">>
+<td>29 APROBADO</td>
 <td>Recepción de quirófano</td>
 <td><p>Personal en la recepción</p>
 <p>Registro de analíticas previa a la llegada</p>
@@ -389,8 +389,8 @@ imagen y partes de quirófano</td>
 <p>Enfermeria: Estefania Vargas</p>
 <p>TCAE: Raquel Roman</p></td>
 </tr>
-<tr style="background-color: mistyrose;">>
-<td>30pendiente 1ºrevision en grupo</td>
+<tr style="background-color: lightyellow;">>
+<td>30pendiente de cambios antes de aprobar</td>
 <td>Reconocimiento terciario</td>
 <td><p>(Este paso lo cambiaria de ubicación)</p>
 <p>Momento de realización</p>
