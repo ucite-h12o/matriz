@@ -39,8 +39,8 @@ PHM ¿?)</p>
 <p>TCAE: Lorena y Pilar Cano</p>
 <p>Enfermeria: Clara Cornejo, Irene Muñoz</p></td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>2pendiente entrega</td>
+<tr style="background-color: mistyrose;">>
+<td>2pendiente 1ºrevision en grupo</td>
 <td><p>Número de ingreso, admisión y peticiones, continuidad de
 información.</p>
 <p>Plan IMV o ingresos dobles</p></td>

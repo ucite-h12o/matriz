@@ -8,6 +8,7 @@
 
 - [0. PROCESO ATENCION INICIAL](proceso_atencion_inicial.md)
 - [1. Preaviso](preaviso.md)
+- [2. Ingreso HCIS y documentación](ingreso_hcis_documentacion.md)
 - [7. Profilaxis antibiótica y limpieza de heridas](profilaxis_atb_limpieza.md)
 - [9. Canalización de vías venosas y arteriales](canalizacion_vias.md)
 - [11. Colocación de drenaje torácico](colocacion_drenaje_toracico.md)
