@@ -1,5 +1,8 @@
 [<b>Link</b> resto protocolos UCITE (saca de la matriz y pide contraseña corporativa)](https://aiccm.sharepoint.com/teams/SERVICIOMEDICINAINTENSIVA/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fteams%2FSERVICIOMEDICINAINTENSIVA%2FDocumentos%20compartidos%2FGeneral%2FSMI%2FUCITE%2FAA%20PROTOCOLOS%20UCITE&viewid=d34cbd9b%2D2fd2%2D4409%2Da520%2Db2c24cb8e56b)
 <br>
+
+[<b>Protocolos generales del servicio</b> en pdf](protocolos_pdf.md)
+
 <br>
 # Índice principal de protocolos de la matriz
 
