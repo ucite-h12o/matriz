@@ -1,3 +1,4 @@
+# Ingreso HCIS y documentación (vídeo al final)
 <table>
 <colgroup>
 <col style="width: 33%" />
@@ -157,6 +158,9 @@ realizan todas o se anula alguna.</p></li>
 </tr>
 </tbody>
 </table>
+
+![type:video](/matriz/media/videos/2_creacion_ingreso.mp4)
+
 
 **DESCRIPCIÓN DE LAS MODIFICACIONES DEL PROTOCOLO**
 

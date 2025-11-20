@@ -1,5 +1,8 @@
 # Vídeos
 
+## Ingreso HCIS y documentación (duración 4:51 s)
+![type:video](/matriz/media/videos/2_creacion_ingreso.mp4)
+
 ## Monitorización simultánea atención inicial (duración 0:59 s)
 ![type:video](/matriz/media/videos/monitorizacion_ simultanea_video.mp4)
 
@@ -22,6 +25,7 @@
 ## Recepción de un quirófano (duración 1:20 s)
 ![type:video](/matriz/media/videos/29_recepcion_quirofano.mp4)
 
-
+## Conciliación historia clínica, HORUS y medicación (duración 2:32 s)
+![type:video](/matriz/media/videos/29_recepcion_quirofano.mp4)
 
 

@@ -266,7 +266,7 @@ vasopresina.</p>
 <p>TCAE: Maria Santa Cruz</p></td>
 </tr>
 <tr style="background-color: lightgreen;">>
-<td>23 APROBADO</td>
+<td>20 APROBADO</td>
 <td>Control de temperatura</td>
 <td><p>Situaciones de temperatura periferica y central (neuro crítico,
 shock traumático)</p>
@@ -285,8 +285,8 @@ shock traumático)</p>
 <td></td>
 <td>Enfermería: Candela</td>
 </tr>
-<tr style="background-color: lightcoral;">>
-<td>22pendiente entrega</td>
+<tr style="background-color: lightgreen;">>
+<td>22 APROBADO</td>
 <td>Conciliación de historia médica</td>
 <td><p>Revisión en Horus de antecedentes, alergias y tratamiento
 previo</p>

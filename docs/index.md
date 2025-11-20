@@ -18,6 +18,7 @@
 - [18. Pruebas radiológicas en BAI](pruebas_radiologicas_bai.md)
 - [19. Analiticas y point of care](analiticas.md)
 - [20. Control de temperatura](control_temperatura.md)
+- [22. Conciliación historia, HORUS, medicación](conciliacion_historia.md)
 - [25. Manejo de objetos personales (pertenencias)](pertenencias.md)
 - [26. Relación con fuerzas seguridad. Entrega de informes](matriz_seguridad.md)
 - [28. Sedación consciente](sedacion_consciente.md)
