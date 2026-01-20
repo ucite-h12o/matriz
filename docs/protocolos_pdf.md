@@ -9,5 +9,6 @@
 - [Hemofiltro terapia depuración extracorpórea - 2018](protocolos_pdf/terapia_depuracion_extracorporea_2018.pdf)
 - [Hemofiltro citrato calcio chuleta](protocolos_pdf/chuleta_citrato_calcio.pdf)
 - [Violencia de género - 2017](protocolos_pdf/violencia_genero_2017.pdf)
+- [](protocolos_pdf/coordina_12.pdf)
 
 
