@@ -12,6 +12,35 @@
   display: block;
 }
 
+/* Homepage protocol list with locally rendered line icons. */
+.protocol-index {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.protocol-index a {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.35rem 0.25rem;
+}
+
+.protocol-index svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  flex: 0 0 1.15rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.protocol-index svg .icon-fill {
+  fill: currentColor;
+  stroke: none;
+}
+
 /* Material hides navigation tabs on small screens. Keep the three main
    sections visible as a horizontally scrollable tab bar on phones. */
 @media screen and (max-width: 76.234375em) {
