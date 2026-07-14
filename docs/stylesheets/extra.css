@@ -1,0 +1,38 @@
+/* The primary navigation tabs replace the visible site title. */
+.md-header__topic {
+  display: none;
+}
+
+/* Remove the title-to-image gap only on the PROP-TBI trial page. */
+.prop-tbi-heading-image h1 {
+  margin-bottom: 0;
+}
+
+.prop-tbi-heading-image img {
+  display: block;
+}
+
+/* Material hides navigation tabs on small screens. Keep the three main
+   sections visible as a horizontally scrollable tab bar on phones. */
+@media screen and (max-width: 76.234375em) {
+  .md-tabs {
+    display: block;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+  }
+
+  .md-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .md-tabs__list {
+    display: flex;
+    width: max-content;
+    min-width: 100%;
+  }
+
+  .md-tabs__item {
+    flex: 0 0 auto;
+  }
+}

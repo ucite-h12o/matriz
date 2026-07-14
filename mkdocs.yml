@@ -2,40 +2,48 @@ site_name: UCITE Matriz
 site_url: https://ucite-h12o.github.io/matriz/
 
 nav:
-  - Home: index.md
-  - <b>Link resto protocolos UCITE (clic saca de la matriz)</b>: https://aiccm.sharepoint.com/teams/SERVICIOMEDICINAINTENSIVA/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fteams%2FSERVICIOMEDICINAINTENSIVA%2FDocumentos%20compartidos%2FGeneral%2FSMI%2FUCITE%2FAA%20PROTOCOLOS%20UCITE&viewid=d34cbd9b%2D2fd2%2D4409%2Da520%2Db2c24cb8e56b
-  - Ayuda uso plataforma: getting-started.md
-  - 0 - PROCESO ATENCION INICIAL: proceso_atencion_inicial
-  - 1 - Preaviso: preaviso
-  - 2 - Ingreso HCIS y documentación: ingreso_hcis_documentacion
-  - 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza
-  - 9 - Canalización de vías venosas y arteriales: canalizacion_vias
-  - 11 - Colocacion de drenaje torácico: colocacion_drenaje_toracico
-  - 12 - REBOA Cobra: reboa
-  - 14 - Resucitación hemostática: resucitacion_hemostatica
-  - 15 - Traslado intrahospitalario del paciente: traslado_intrahosp
-  - 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai
-  - 19 - Analíticas y POCT: analiticas
-  - 20 - Control de temperatura: control_temperatura
-  - 22 - Conciliación historia clínica: conciliacion_historia
-  - 25 - Manejo de objetos personales (pertenencias): pertenencias
-  - 26 - Fuerzas Seguridad: matriz_seguridad  
-  - 28 - Sedación consciente: sedacion_consciente
-  - 29 - Recepción de quirófano: recepcion_quirofano
-  - 30 - Reconocimiento terciario: valoracion_terciaria
-  - 31 - Protección personal: proteccion_personal
-  - VÍDEOS: videos
+  - UCITE:
+      - Home: index.md
+      - <b>Link resto protocolos UCITE (clic saca de la matriz)</b>: https://aiccm.sharepoint.com/teams/SERVICIOMEDICINAINTENSIVA/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fteams%2FSERVICIOMEDICINAINTENSIVA%2FDocumentos%20compartidos%2FGeneral%2FSMI%2FUCITE%2FAA%20PROTOCOLOS%20UCITE&viewid=d34cbd9b%2D2fd2%2D4409%2Da520%2Db2c24cb8e56b
+      - Ayuda uso plataforma: getting-started.md
+      - 0 - PROCESO ATENCION INICIAL: proceso_atencion_inicial.md
+      - 1 - Preaviso: preaviso.md
+      - 2 - Ingreso HCIS y documentación: ingreso_hcis_documentacion.md
+      - 7 - Profilaxis antibiótica y limpieza heridas: profilaxis_atb_limpieza.md
+      - 9 - Canalización de vías venosas y arteriales: canalizacion_vias.md
+      - 11 - Colocacion de drenaje torácico: colocacion_drenaje_toracico.md
+      - 12 - REBOA Cobra: reboa.md
+      - 14 - Resucitación hemostática: resucitacion_hemostatica.md
+      - 15 - Traslado intrahospitalario del paciente: traslado_intrahosp.md
+      - 18 - Pruebas Radiológicas en BAI: pruebas_radiologicas_bai.md
+      - 19 - Analíticas y POCT: analiticas.md
+      - 20 - Control de temperatura: control_temperatura.md
+      - 22 - Conciliación historia clínica: conciliacion_historia.md
+      - 25 - Manejo de objetos personales (pertenencias): pertenencias.md
+      - 26 - Fuerzas Seguridad: matriz_seguridad.md
+      - 28 - Sedación consciente: sedacion_consciente.md
+      - 29 - Recepción de quirófano: recepcion_quirofano.md
+      - 30 - Reconocimiento terciario: valoracion_terciaria.md
+      - 31 - Protección personal: proteccion_personal.md
+      - VÍDEOS: videos.md
+  - Investigación:
+      - Inicio: investigacion.md
+      - Ensayo Clínico Bonanza: ensayo-clinico-bonanza.md
+      - Ensayo Clínico Propranolol PROP-TBI: ensayo-clinico-propranolol-prop-tbi.md
+  - ECMO-RCP: ecmo-rcp.md
 
 theme:
   name: material
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
 
 plugins:
   - search:
       prebuild_index: false
-      lang: 
+      lang:
         - es
         - en
       separator: '[\s\-\.]+'
@@ -43,7 +51,9 @@ plugins:
       is_video: True
       video_autoplay: false
 
-
 extra_javascript:
   - javascripts/remove-diacritics.js
   - https://hypothes.is/embed.js
+
+extra_css:
+  - stylesheets/extra.css
